@@ -1,0 +1,68 @@
+body{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    background-color: #d0e3d9;
+    text-align: center;
+    align-items: center;
+    font-size: 16px;
+    color: #365b54;
+}
+
+.Border{
+    border: solid;
+    border-radius: 10px;
+    width: 700px;
+    padding: 20px;
+    border-style: dotted;
+    margin: 0 auto;
+}
+
+.Siran{
+    border: sorid;
+    border-radius: 10px;
+    padding: 4px;
+    border-style: double;
+    margin: 0 auto;
+    border-width: 5px;
+}
+
+.Side_left{
+    top: 0;
+    color: #f4fffa;
+    font-size: 22px;
+    padding: 5px;
+    line-height: 35px;
+    text-align: left;
+    background-color: #86b3a9;
+    position: fixed;
+    height: 100%;
+    width: 225px;
+}
+
+.Side_right{
+    top: 0;
+    right: 0px;
+    padding: 5px;
+    background-color: #86b3a9;
+    position: fixed;
+    height: 100%;
+    width: 225px;
+    color: #f4fffa;
+}
+
+a{
+    color: #f4fffa;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+button{
+    background: #86b3a9;
+    border: #365b54;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #e5f3eb;
+    padding: 8px;
+}
