@@ -18,15 +18,6 @@ body{
     margin: 0 auto;
 }
 
-.Siran{
-    border: sorid;
-    border-radius: 10px;
-    padding: 4px;
-    border-style: double;
-    margin: 0 auto;
-    border-width: 5px;
-}
-
 .Side_left{
     top: 0;
     color: #f4fffa;
@@ -37,7 +28,7 @@ body{
     background-color: #86b3a9;
     position: fixed;
     height: 100%;
-    width: 225px;
+    width: 190px;
 }
 
 .Side_right{
@@ -47,7 +38,7 @@ body{
     background-color: #86b3a9;
     position: fixed;
     height: 100%;
-    width: 225px;
+    width: 190px;
     color: #f4fffa;
 }
 
@@ -67,3 +58,4 @@ button{
     padding: 8px;
 
 }
+
