@@ -28,7 +28,7 @@ body{
     background-color: #86b3a9;
     position: fixed;
     height: 100%;
-    width: 180px;
+    width: 160px;
 }
 
 .Side_right{
@@ -38,7 +38,7 @@ body{
     background-color: #86b3a9;
     position: fixed;
     height: 100%;
-    width: 180px;
+    width: 160px;
     color: #f4fffa;
 }
 
@@ -58,5 +58,6 @@ button{
     padding: 8px;
 
 }
+
 
 
